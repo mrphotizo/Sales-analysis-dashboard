@@ -1,4 +1,4 @@
-Sales Analysis Dashboard (Power BI)
+ Sales Analysis Dashboard (Power BI)
 
 ## Overview
 This project presents a Sales Analysis Dashboard built using Power BI. It provides insights into revenue performance, top customers, and best-selling products.
@@ -22,7 +22,7 @@ This project presents a Sales Analysis Dashboard built using Power BI. It provid
 ![Dashboard](dashboard.png)
 
 ## File
-- `sales-dashboard.pbix` → Power BI file
+- `sales-analysis-dashboard.pbix` → Power BI file
 
 ## Author
 Eze Chinweotito
